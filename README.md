@@ -7,10 +7,15 @@ Teamsize: 3
 Person: I developed a control application using JavaScript with Socket.IO for real-time remote control and monitoring and the system includes a camera for remote supervision on Web and I programmed the coordination between the servos to move the robot. I draw all component in Solidwork and simulation in Matlab.
 
 💡 Hardware: 
+
 Raspberry Pi 5
+
 RC Servo 
+
 Driver PCA9685
+
 MPU6050
+
 Camera
    
 🛠️ Technical Used
