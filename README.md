@@ -1,5 +1,7 @@
 🔥 A Quadruped Robot for Security Patrol Support
+
 Time: March 2025 - Present
+
 Describe project: This is my graduation project, which is a smart mobile quadruped robot with 12 degrees of freedom (DOF). The robot is capable of coordinated movement and dynamic balancing using the MPU6050 sensor, allowing it to walk and maintain stability even on inclined or uneven terrain.
 
 Teamsize: 3 
